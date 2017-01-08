@@ -1,5 +1,5 @@
 ## 請將以下連結加入書籤
-[Google Translation Download](javascript: (function() {
+[Google翻譯下載小工具](javascript: (function() {
     if(document.getElementById("_d")!=null)
       return;
     var _d = document.createElement("span");
@@ -42,5 +42,4 @@ javascript: (function() {
     };
     alert("指令插入完成!\n請先按播放，再按下載音訊");
 })();
-```
 ```
